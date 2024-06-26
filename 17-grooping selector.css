@@ -1,0 +1,28 @@
+
+h1,.paragraph,.list-item,.button {  
+  color: #00698f;  
+  font-family: Arial, sans-serif;  
+}  
+  
+
+#main-heading {  
+  font-size: 36px;  
+}  
+  
+.list-item {  
+  list-style: none;  
+  margin-bottom: 10px;  
+}  
+  
+.button {  
+  background-color: #4CAF50;  
+  color: #ffffff;  
+  padding: 10px 20px;  
+  border: none;  
+  border-radius: 5px;  
+  cursor: pointer;  
+}  
+  
+.button:hover {  
+  background-color: #3e8e41;  
+}  

@@ -1,0 +1,15 @@
+body {  
+  font-family: Arial, sans-serif;  
+}  
+  
+.normal {  
+  line-height: 1;  
+}  
+  
+.double {  
+  line-height: 2;  
+}  
+  
+.triple {  
+  line-height: 3;  
+}  

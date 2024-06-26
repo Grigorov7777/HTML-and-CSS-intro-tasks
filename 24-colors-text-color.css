@@ -1,0 +1,26 @@
+/* style.css */  
+  
+/* Apply default text color to all elements */  
+body {  
+  color: #000; /* black */  
+}  
+  
+/* Apply blue text color to elements with class "blue-text" */  
+.blue-text {  
+  color: #0000ff; /* blue */  
+}  
+  
+/* Apply red text color to elements with class "red-text" */  
+.red-text {  
+  color: #ff0000; /* red */  
+}  
+  
+/* Apply green text color to element with id "green-heading" */  
+#green-heading {  
+  color: #008000; /* green */  
+}  
+  
+/* Apply yellow text color to element with id "yellow-paragraph" */  
+#yellow-paragraph {  
+  color: #ffff00; /* yellow */  
+}  

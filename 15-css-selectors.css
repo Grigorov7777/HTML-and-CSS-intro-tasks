@@ -1,0 +1,22 @@
+ 
+#main-heading {  
+  color: #00698f;  
+  font-size: 36px;  
+  text-align: center;  
+}  
+  
+#paragraph-1 {  
+  font-style: italic;  
+  color: #666;  
+}  
+  
+#paragraph-2 {  
+  font-weight: bold;  
+  color: #333;  
+}  
+  
+#container {  
+  background-color: #f0f0f0;  
+  padding: 20px;  
+  border: 1px solid #ddd;  
+}  

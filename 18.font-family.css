@@ -1,0 +1,50 @@
+/* Serif Font Family */  
+#serif {  
+  font-family: Times, "Times New Roman", serif;  
+}  
+  
+#serif-paragraph {  
+  font-family: Times, "Times New Roman", serif;  
+  font-size: 18px;  
+}  
+  
+/* Sans-Serif Font Family */  
+#sans-serif {  
+  font-family: Arial, Helvetica, sans-serif;  
+}  
+  
+#sans-serif-paragraph {  
+  font-family: Arial, Helvetica, sans-serif;  
+  font-size: 18px;  
+}  
+  
+/* Monospace Font Family */  
+#monospace {  
+  font-family: Courier, "Courier New", monospace;  
+}  
+  
+#monospace-paragraph {  
+  font-family: Courier, "Courier New", monospace;  
+  font-size: 18px;  
+}  
+  
+/* Cursive Font Family */  
+#cursive {  
+  font-family: cursive;  
+}  
+  
+#cursive-paragraph {  
+  font-family: cursive;  
+  font-size: 18px;  
+}  
+  
+/* Fantasy Font Family */  
+#fantasy {  
+  font-family: fantasy;  
+}  
+  
+#fantasy-paragraph {  
+  font-family: fantasy;  
+  font-size: 18px;  
+}  
+

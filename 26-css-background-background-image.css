@@ -1,0 +1,28 @@
+body {  
+  margin: 0;  
+  padding: 0;  
+}  
+  
+.header {  
+  background-image: url('header-bg.jpg');  
+  background-size: cover;  
+  height: 200px;  
+  color: #fff;  
+  text-align: center;  
+  padding: 20px;  
+}  
+  
+.main-content {  
+  background-image: url('leo_image_632.jpg');  
+  background-repeat: repeat-y;  
+  padding: 20px;  
+}  
+  
+.footer {  
+  background-image: url('depositphotos_78499162-stock-illustration-zodiac-signs-leo.jpg');  
+  background-size: cover;  
+  height: 100px;  
+  color: #fff;  
+  text-align: center;  
+  padding: 20px;  
+}  

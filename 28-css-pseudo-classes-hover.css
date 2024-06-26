@@ -1,0 +1,22 @@
+.hover-link {  
+  color: blue;  
+  text-decoration: none;  
+}  
+  
+.hover-link:hover {  
+  color: red;  
+  text-decoration: underline;  
+}  
+  
+.hover-button {  
+  background-color: #ccc;  
+  border: none;  
+  padding: 10px 20px;  
+  font-size: 16px;  
+  cursor: pointer;  
+}  
+  
+.hover-button:hover {  
+  background-color: #aaa;  
+  color: #fff;  
+}  

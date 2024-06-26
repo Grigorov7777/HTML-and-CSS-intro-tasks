@@ -1,0 +1,33 @@
+/* Normal Font */  
+#normal {  
+  font-style: normal;  
+  font-weight: normal;  
+}  
+  
+/* Italic Font */  
+#italic {  
+  font-style: italic;  
+  font-weight: normal;  
+}  
+  
+/* Bold Font */  
+#bold {  
+  font-style: normal;  
+  font-weight: bold;  
+}  
+  
+/* Bold Italic Font */  
+#bold-italic {  
+  font-style: italic;  
+  font-weight: bold;  
+}  
+  
+/* Light Font Weight */  
+#light {  
+  font-weight: 300;  
+}  
+  
+/* Heavy Font Weight */  
+#heavy {  
+  font-weight: 800;  
+}  

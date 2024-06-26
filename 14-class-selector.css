@@ -1,0 +1,23 @@
+.header {  
+  color: #00698f;  
+  font-size: 36px;  
+  text-align: center;  
+}  
+  
+.paragraph {  
+  font-size: 18px;  
+  margin-bottom: 20px;  
+}  
+  
+.button {  
+  background-color: #4CAF50;  
+  color: #ffffff;  
+  padding: 10px 20px;  
+  border: none;  
+  border-radius: 5px;  
+  cursor: pointer;  
+}  
+  
+.button:hover {  
+  background-color: #3e8e41;  
+}  
